@@ -1,5 +1,5 @@
 -- supremevaluelist.com
-Values = {
+local ValuesList = {
   ["Corrupt"] = 930,
   ["Nik's Scythe"] = 1000000000,
   ["Gingerscope"] = 7000,
@@ -71,9 +71,15 @@ Values = {
   ["Eternalcane"] = 24,
   ["Lugercane"] = 24,
   ["Minty"] = 24,
-  ["Gemstone"] = 23 
+  ["Gemstone"] = 23,
   ["Ginger Luger"] = 23,
   ["Heat"] = 23,
   ["Slasher"] = 23,
-  ["Pixel"] = 23
+  ["Pixel"] = 23,
+  ["JD"] = 65,
+  ["Latte Gun"] = 105,
+  ["Latte Knife"] = 105,
+  ["Cotton Candy"] = 65,
+  ["Witched"] = 55,
+  ["Beach"] = 22,
 }
